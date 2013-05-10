@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Curriculum-Vitae
+Bundle-SymbolicName: Curriculum-Vitae
+Bundle-Version: 1.0.0.qualifier
