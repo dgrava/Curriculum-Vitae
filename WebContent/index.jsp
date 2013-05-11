@@ -10,7 +10,7 @@
       type="image/jpeg" 
       href="img/portrait.jpg" />
 
-	<!-- Start Style Sheets diego-->
+	<!-- Start Style Sheets diego.grava-->
 	
 	<link rel="stylesheet" href="css/reset.css" />
 	<link rel="stylesheet" href="css/text.css" />
