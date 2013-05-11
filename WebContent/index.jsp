@@ -8,7 +8,7 @@
 	<link rel="icon" type="image/png" href="img/favicon.png" />
 	<link rel="image_src" 
       type="image/jpeg" 
-      href="http://hcoplanet.com.br/img/portrait.jpg" />
+      href="img/portrait.jpg" />
 
 	<!-- Start Style Sheets -->
 	
